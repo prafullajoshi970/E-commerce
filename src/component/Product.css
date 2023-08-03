@@ -1,0 +1,5 @@
+.cards{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    background-image: url('https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&w=600');
+}
